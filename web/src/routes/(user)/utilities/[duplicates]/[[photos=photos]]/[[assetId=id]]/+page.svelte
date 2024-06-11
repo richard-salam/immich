@@ -20,10 +20,8 @@
     try {
       if (!$featureFlags.trash && trashIds.length > 0) {
         const isConfirmed = await dialogController.show({
-          title: 'Confirm',
-          prompt: 'Are you sure you want to permanently delete these duplicates?',
-          confirmText: 'Yes',
-          cancelText: 'No',
+          title: 'Confirm delete',
+          prompt: $t('dialog_delete_asset_permanent'),
         });
 
         if (!isConfirmed) {

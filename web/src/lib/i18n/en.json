@@ -331,6 +331,7 @@
   "deleted_shared_link": "Deleted shared link",
   "description": "Description",
   "details": "Details",
+  "dialog_delete_asset_permanent": "Are you sure you want to delete this asset permanently?",
   "direction": "Direction",
   "disallow_edits": "Disallow edits",
   "discover": "Discover",
