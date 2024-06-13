@@ -186,7 +186,7 @@
     "server_external_domain_settings_description": "Domain for public shared links, including http(s)://",
     "server_settings": "Server Settings",
     "server_settings_description": "Manage server settings",
-    "server_welcome_message": "Welcome Message",
+    "server_welcome_message": "Welcome message",
     "server_welcome_message_description": "A message that is displayed on the login page.",
     "sidecar_job": "Sidecar metadata",
     "sidecar_job_description": "Discover or synchronize sidecar metadata from the filesystem",
